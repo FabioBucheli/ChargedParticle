@@ -8,8 +8,6 @@ from matplotlib.widgets import Button
 #Erstellen des Plot-Objekts als 3D Objekt
 fig, ax = plt.subplots(figsize=(10, 8))
 
-#Beschriftung der x, y und z Achse
-
 # Definierung der Anfangsposition
 x0 = float(0.01)
 y0 = float(0.01)
